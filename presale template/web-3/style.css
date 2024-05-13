@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://www.meteorite-times.com/Back_Links/2011/november/camp_orion_sporadic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.round{
+    width: 120px;
+border-radius: 50%;
+
+
+}
+
+
+a{
+   color: black;
+    text-decoration: none; 
+    background-color: white;
+    cursor: pointer;
+}
+a:hover{
+    background-color: wheat;
+}
